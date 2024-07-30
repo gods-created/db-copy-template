@@ -1,0 +1,4 @@
+SQLAlchemy
+loguru
+mysql-connector-python
+boto3
